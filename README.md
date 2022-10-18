@@ -1,1 +1,1 @@
-"# SGDK-Template-Gamestate-Menu" 
+"# SGDK Template Including Gamestate and Menu" 
